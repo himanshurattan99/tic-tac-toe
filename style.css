@@ -57,11 +57,12 @@
 #info {
     padding: 1rem 2rem;
     background-color: #F1F9FF;
+    font-size: 1.125rem;
     border: 0.125rem solid #007BFF;
     border-radius: 0.75rem;
 }
 
-#reset {
+#resetButton {
     padding: 0.5em 1em;
     background-color: #007BFF;
     color: #F6F6F6;
@@ -71,6 +72,6 @@
     cursor: pointer;
 }
 
-#reset:hover {
+#resetButton:hover {
     background-color: #3FC881;
 }
